@@ -1,12 +1,6 @@
 - 👋 Hi, I’m @itsanshumankr
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-itsanshumankr/itsanshumankr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Data Structure & aglorithm with C++.
+- 💞️ I’m looking to collaborate on Web Development
+- 📫 How to reach me @itsanshumankr
+- ⚡ Fun fact: Busy in sleeping.
