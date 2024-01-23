@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itsanshumankr
+- 👋 Hi, I’m Anshuman!
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Data Structure & aglorithm with C++.
 - 💞️ I’m looking to collaborate on Web Developer.
