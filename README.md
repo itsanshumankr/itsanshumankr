@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anshuman!
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Data Structure & aglorithm with C++.
-- 💞️ I’m looking to collaborate on Web Developer.
-- 📫 How to reach me @itsanshumankr
+- 🌱 I’m currently learning Data Structure & Aglorithm with C++.
+- 💞️ I’m looking to collaborate with Web Developer.
+- 📫 Reach me @itsanshumankr
 - ⚡ Fun fact: Busy in sleeping.
